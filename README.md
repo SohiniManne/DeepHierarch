@@ -8,7 +8,7 @@ In large retail and supply chain organizations (like Amazon, Walmart, or Unileve
 
 A major problem in Data Science is Incoherence: when AI models predict regional sales that don't mathematically sum up to the global prediction. This project solves that using Deep Learning (N-BEATS) for high-accuracy local predictions and Linear Algebra (MinT Reconciliation) to enforce mathematical consistency across the entire hierarchy.
 
-screenshot.png
+![Dashboard Screenshot](screenshot.png)
 
 🚀 Key Features
 
