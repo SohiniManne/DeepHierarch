@@ -38,7 +38,7 @@ Data Manipulation: Pandas, NumPy
 
 Clone the repository:
 
-git clone [https://github.com/yourusername/hierarchical-demand-forecasting.git](https://github.com/yourusername/hierarchical-demand-forecasting.git)
+git clone [https://github.com/SohiniManne/DeepHierarch.git](https://github.com/SohiniManne/DeepHierarch.git)
 cd hierarchical-demand-forecasting
 
 
