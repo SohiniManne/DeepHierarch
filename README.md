@@ -1,10 +1,10 @@
-📦 Hierarchical AI Demand Forecasting System
+📦 DeepHierarch
 
 A state-of-the-art demand forecasting engine tackling the "Additivity Constraint" problem in global supply chains.
 
 📖 Overview
 
-In large retail and supply chain organizations (like Amazon, Walmart, or Unilever), forecasting isn't just about one number. It's a hierarchy: Global Sales break down into Regional Sales, which break down into individual Product (SKU) Sales.
+In large retail and supply chain organizations (like Amazon, Walmart, or Unilever),  forecasting isn't just about one number. It's a hierarchy: Global Sales break down into Regional Sales, which break down into individual Product (SKU) Sales.
 
 A major problem in Data Science is Incoherence: when AI models predict regional sales that don't mathematically sum up to the global prediction. This project solves that using Deep Learning (N-BEATS) for high-accuracy local predictions and Linear Algebra (MinT Reconciliation) to enforce mathematical consistency across the entire hierarchy.
 
@@ -39,7 +39,7 @@ Data Manipulation: Pandas, NumPy
 Clone the repository:
 
 git clone [https://github.com/SohiniManne/DeepHierarch.git](https://github.com/SohiniManne/DeepHierarch.git)
-cd hierarchical-demand-forecasting
+cd DeepHierarch
 
 
 Install Dependencies:
